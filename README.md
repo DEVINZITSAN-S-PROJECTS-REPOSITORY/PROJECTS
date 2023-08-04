@@ -1,3 +1,3 @@
 POSTAL
 
-Only Postal Projects
+Only POSTAL Projects
